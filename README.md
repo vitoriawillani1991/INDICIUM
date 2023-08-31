@@ -1,5 +1,5 @@
-# Predicting the price of used autos 
-This repository contains Indicium's answer to the used vehicle pricing dilemma. 
+# Predicting the price of used cars
+This repository contains the answer to the used vehicle pricing dilemma. 
 The challenge's goal is to examine the available data and develop a predictive model capable of pricing the customer's cars competitively in the market. The data set provided is divided into two parts: a training set called "cars_training" and a test set called "cers_test."
 
 Data sets:
