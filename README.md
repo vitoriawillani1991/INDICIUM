@@ -1,4 +1,6 @@
 # Predicting the price of used cars
+
+![car](https://edgecast-img.yahoo.net/mysterio/api/E7AD6D1E65F25051D37A2E56B0868ACEB35051B21114C814844C8D82ACF84438/autoblog/resizefill_w1200_h850;quality_80;format_webp;cc_31536000;/https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1200x850/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2023/08/10155202/Screenshot-2023-08-10-at-3.51.31-PM.png)
 This repository contains the answer to the used vehicle pricing dilemma. 
 The challenge's goal is to examine the available data and develop a predictive model capable of pricing the customer's cars competitively in the market. The data set provided is divided into two parts: a training set called "cars_training" and a test set called "cers_test."
 
